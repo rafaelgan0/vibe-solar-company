@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "home": "Home",
+    "landmark": "Why Solar Now",
+    "industries": "Industries",
+    "products": "Products & Services",
+    "portfolio": "Project Portfolio",
+    "incentives": "Incentives & Financing",
+    "resources": "Resources",
+    "about": "About Us",
+    "contact": "Contact",
+    "calculator": "Savings Calculator"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "close": "Close",
+    "open": "Open",
+    "next": "Next",
+    "previous": "Previous",
+    "skipToContent": "Skip to main content",
+    "needHelp": "Need help?",
+    "getQuote": "Get a Quote"
+  },
+  "accessibility": {
+    "skipToMain": "Skip to main content",
+    "openMenu": "Open main menu",
+    "closeMenu": "Close main menu",
+    "openSubmenu": "Open submenu",
+    "closeSubmenu": "Close submenu"
+  }
+}
